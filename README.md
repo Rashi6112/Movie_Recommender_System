@@ -33,5 +33,5 @@ from sklearn.metrics.pairwise import cosine_similarity
 import matplotlib.pyplot as plt
 import seaborn as sns
 import streamlit as st
+![Capture](https://github.com/user-attachments/assets/91d2da18-6296-4154-a62e-8377074c105a)
 
-![Capture](https://github.com/user-attachments/assets/cb18643d-531e-4ae9-b7aa-d0ccbb2ef7b9)
